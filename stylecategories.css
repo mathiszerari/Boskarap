@@ -1,0 +1,82 @@
+html
+{
+    background: 7A4A32(+foncé);
+    background: 9A715C(+clair);
+    background: #92664F;
+    font-family: 'Noto Sans Hanunoo', sans-serif;
+}
+body
+{
+    font-size: 19px;
+    color: #FFDC00;
+    background: #92664F;
+    font-family: 'Noto Sans Hanunoo', sans-serif;
+}
+nav 
+{
+    padding: 0; margin: 0;
+	text-align: center;
+    display: inline;
+    width: 100%;
+}
+nav a
+{
+    display:inline-block;
+	margin: 0 30px;
+    font-size: 20px;
+    display: inline-block;
+    text-decoration: none;
+    color: #92664F;
+    
+    padding-bottom: 20px;
+    padding: 20px;
+}
+nav li
+{
+    display: inline;
+	list-style: none;
+    list-style: none;
+}
+nav ul
+{
+    list-style-type: none;
+    border-radius:10px;
+    opacity: 0.80;
+    margin: 0;
+    padding: 0;
+    background: #FFDC00;
+    
+}
+p
+{
+    font-size: 16px;
+    color: mistyrose;
+    background: #92664F;
+    font-family: 'Noto Sans Hanunoo', sans-serif;
+}
+p1
+{
+    font-size: 20px;
+    margin: 10px;
+    color: mistyrose;
+    font-family: 'Noto Sans Hanunoo', sans-serif;
+    text-decoration: underline mistyrose;
+    list-style-type:circle;
+}
+p2
+{
+    font-size: 26px;
+    margin: 10px;
+    color: #FFDC00;
+    font-family: 'Noto Sans Hanunoo', sans-serif;
+    text-decoration-color: white;
+}
+.ancre
+{
+    color: #FFDC00;
+    font-family: 'Noto Sans Hanunoo', sans-serif;
+}
+
+h1{
+    text-align: center;
+}

@@ -1,0 +1,67 @@
+html
+{
+    background: 7A4A32(+foncé);
+    background: 9A715C(+clair);
+    background: #92664F;
+    font-family: 'Noto Sans Hanunoo', sans-serif;
+}
+h1
+{
+    text-align: center;
+}
+body
+{
+    font-size: 21px;
+    color: #FFDC00;
+    background: #92664F;
+    font-family: 'Noto Sans Hanunoo', sans-serif;
+}
+ul
+{
+    list-style-type: none;
+    opacity: 0.80;
+    border-radius:20px;
+    margin: 0;
+    padding: 0;
+    background: #FFDC00;
+    overflow: hidden;
+    font-family: 'Noto Sans Hanunoo', sans-serif;
+}
+li
+{
+    color: #FFDC00;
+    float: middle;
+    opacity: 1;
+    text-align: center;
+    font-family: 'Noto Sans Hanunoo', sans-serif;
+    
+}
+li a
+{
+    color: #92664F;
+    padding: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    display: block;
+    font-family: 'Noto Sans Hanunoo', sans-serif;
+}
+p
+{
+    text-align: center;
+    font-size: 16px;
+    color: mistyrose;
+    background: #92664F;
+    font-family: 'Noto Sans Hanunoo', sans-serif;
+}
+.button1
+{
+    font-size: 15px;
+    color: mistyrose;
+    font-family: 'Noto Sans Hanunoo', sans-serif;
+}
+.button2
+{
+    font-size: 15px; 
+    color: mistyrose;
+    font-family: 'Noto Sans Hanunoo', sans-serif;
+}
